@@ -2,7 +2,7 @@
 
 A Power BI dashboard analyzing ride-hailing operations for GoMotion — covering ride volume, revenue, driver performance, cancellations, and customer satisfaction across 2025.
 
-![Dashboard Preview](assets/dashboard_preview.png)
+![Dashboard Preview](GoMotion-Ride-Dashboard.png)
 
 ---
 
@@ -53,6 +53,8 @@ This project analyzes 10,000 ride requests on the GoMotion platform to uncover p
 - Revenue is **fairly evenly spread** across the top 5 locations (£19.8K–£22.7K), rather than concentrated in one hub.
 
 ---
+Full report details ![Full-Report](GoMotion_Rides_Dashboard_Report.pdf)
+----
 
 ## 💡 Recommendations
 
@@ -65,43 +67,15 @@ This project analyzes 10,000 ride requests on the GoMotion platform to uncover p
 
 ## 🛠️ Tools Used
 
-- **Power BI Desktop** — data modeling, DAX measures, and visualization
-- **Power Query** — data cleaning and transformation
+- Excel
 
 ---
 
-## 📁 Repository Structure
-
-```
-gomotion-rides-dashboard/
-├── data/
-│   └── rides_dataset.csv          # Raw/cleaned dataset used in the dashboard
-├── dashboard/
-│   └── GoMotion_Rides_Dashboard.pbix   # Power BI dashboard file
-├── report/
-│   └── GoMotion_Rides_Dashboard_Report.docx  # Full written analysis & recommendations
-├── assets/
-│   └── dashboard_preview.png      # Dashboard screenshot
-└── README.md
-```
-
----
-
-## 🚀 How to Use
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/<your-username>/gomotion-rides-dashboard.git
-   ```
-2. Open `dashboard/GoMotion_Rides_Dashboard.pbix` in **Power BI Desktop**.
-3. Use the Driver ID and Month slicers to explore performance by driver or time period.
-
----
 
 ## 👤 Author
 
-**Daniel (Sphere)**
-Data Analyst Intern, AnalystLab Africa
+**Daniel Awe**
+Data Analyst
 
 ---
 
