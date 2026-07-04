@@ -4,6 +4,7 @@ A Power BI dashboard analyzing ride-hailing operations for GoMotion — covering
 
 ![Dashboard Preview](GoMotion-Ride-Dashboard.png)
 
+
 ---
 
 ## 📌 Project Overview
@@ -53,7 +54,9 @@ This project analyzes 10,000 ride requests on the GoMotion platform to uncover p
 - Revenue is **fairly evenly spread** across the top 5 locations (£19.8K–£22.7K), rather than concentrated in one hub.
 
 ---
-Full report details ![Full-Report](GoMotion_Rides_Dashboard_Report.pdf)
+
+Full report details ![`FullReport`](GoMotion_Rides_Dashboard_Report.pdf)
+
 ----
 
 ## 💡 Recommendations
