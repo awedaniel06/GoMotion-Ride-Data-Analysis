@@ -2,7 +2,7 @@
 
 A Power BI dashboard analyzing ride-hailing operations for GoMotion — covering ride volume, revenue, driver performance, cancellations, and customer satisfaction across 2025.
 
-![Dashboard Preview](GoMotion-Ride-Dashboard.png)
+![Dashboard Preview](https://github.com/awedaniel06/GoMotion-Ride-Data-Analysis/blob/main/GoMotion%20Ride%20Dashboard.png)
 
 
 ---
