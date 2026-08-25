@@ -55,7 +55,7 @@ This project analyzes 10,000 ride requests on the GoMotion platform to uncover p
 
 ---
 
-Full report details ![`FullReport`](GoMotion_Rides_Dashboard_Report.pdf)
+Full report details [`FullReport`](GoMotion_Rides_Dashboard_Report.pdf)
 
 ----
 
